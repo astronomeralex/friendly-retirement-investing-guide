@@ -20,7 +20,8 @@ Questions? Email <mr.alex.hagen@gmail.com>
 	* Almost all jobs, except for some teachers, academics, and others with public pension plans, pay into social security. Benefits are based on the amount and time paid into the program.
 	* Designed to keep retired folks out of poverty, not fund a luxurious retirement.
 	* The longer in retirement you wait to start drawing social security, the higher your payments will be (increases 8% per year until age 70).
-	* #####Positives
+	
+ 	* #####Positives
 		* Guaranteed income throughout retirement.
 	* #####Negatives
 		* Generally doesn't provide the necessary income for a comfortable retirement.
@@ -31,8 +32,10 @@ Questions? Email <mr.alex.hagen@gmail.com>
 * ####Pensions
 	* Mostly in the public sector, academia, and in some unions; many private employers have gotten rid of pensions.
 	* Pensions traditionally pay a "defined benefit" once you retire based on your salary and how long you paid into the pension; that is, a set amount of money, with increases for inflation, per year for the rest of your life. For example, a PA teacher at retirement will receive a yearly income of 0.025 x [highest salary] x [years of service].
+	
 	* #####Positives
 		* Pensions provide security throughout retirement regardless of lifespan. This provides a very high level of financial security that does not vary with the stock market.
+	
 	* #####Negatives
 		* Generally, pensions are not very portable, and can't move from job to job, like IRAs or 401(k) plans. 
 		* Some pension plans, particularly municipal, are very underfunded; For example --  [Detroit](http://www.bloomberg.com/news/articles/2015-02-05/detroit-pension-cuts-from-bankruptcy-prompt-cries-of-betrayal).
@@ -42,15 +45,18 @@ Questions? Email <mr.alex.hagen@gmail.com>
 		* [CNN Money](http://money.cnn.com/retirement/guide/BenefitPlans/)
 		* [Pension Rights Center](http://www.pensionrights.org/)
 
-* ####401(k) & 403(b) Plans
+* ####401(k), 403(b), and the Thrift Savings Plan
 	* 401ks are retirement plans used by a large majority of businesses. They are named after the subsection of the IRS code which defines them.
 	* 403b plans are used by some non-profits and academia; they are also named after their subsection of the tax code.
 	* Many companies will match retirement contributions up to a certain percentage (generally 3-6%) -- this is equivalent to a large bonus!
-	* Money comes out of paychecks and into the plans pre-tax; tax is paid when the money is taken out during retirement. Maximum contribution per year is ~$18,000.
-	* Cannot withdraw money out of 401ks or 403bs until age 59.5 or financial hardship.
+	* The Thrift Savings Plan is the Federal Government's version of this.
+	* Generally, money comes out of paychecks and into the plans pre-tax; tax is paid when the money is taken out during retirement. Maximum pre-tax contribution per year is ~$18,000. Recently, there are post-tax versions of these plans similar to a Roth IRA (see below). These Roth versions have significantly lower contribution limits, but there are no taxes paid when the money is withdrawn.
+	* Cannot withdraw money out of these plans until age 59.5 or financial hardship.
+	
 	* #####Positives
 		* Many 401ks or 403bs will offer investment funds from one financial company. You can choose your own level of risk for your situation.
 		* Very portable and easy to transfer to another company or into an IRA.
+	
 	* #####Negatives
 		* Many 401ks or 403bs will offer investment funds from one financial company. These could be non-optimal for your situation or have higher fees than other financial firms.
 		* Value depends on market conditions.
@@ -64,6 +70,7 @@ Questions? Email <mr.alex.hagen@gmail.com>
 	* Roth IRAs take money out of your paycheck post-tax, and the money is never taxed again. All the gains from increases in your investments are untaxed. *Roth IRAs are a financial miracle.*
 	* Like 401ks and 403bs, you cannot withdraw money out of IRAs until age 59.5 or financial hardship. You can withdraw up to $10,000 of principle from a Roth once in your life to buy a house.
 	* Contributions to IRAs are limited to $5500 per year total, not each type of account. 
+	
 	* #####Positives
 		* Portable, doesn't depend your workplace, and open to a very broad range of investments. 
 		* The tax benefits of IRAs are very significant.
@@ -76,7 +83,7 @@ Questions? Email <mr.alex.hagen@gmail.com>
 ### Investment Strategies
 
 * ####Passive Investing
-Passive investing (also called index investing) buys into large portions of the market using index funds or other low-cost investing options. There is no attempt to use market timing or stock picking. This strategy has been shown to be superior to active investing strategies and is highly recommended. See [Standard & Poor's Index Vs. Active Scorcard](https://us.spindices.com/resource-center/thought-leadership/spiva/) and [Wikipedia](https://en.wikipedia.org/wiki/Passive_management) for more information.
+Passive investing (also called index investing) buys into large portions of the market using index funds or other low-cost investing options. There is no attempt to use market timing or stock picking. **This strategy has been shown to be superior to active investing strategies and is highly recommended.** See [Standard & Poor's Index Vs. Active Scorcard](https://us.spindices.com/resource-center/thought-leadership/spiva/) and [Wikipedia](https://en.wikipedia.org/wiki/Passive_management) for more information.
 
 * ####Active Investing
 Active investing is where the investor attempts to make money by picking specific stocks or sectors of the market that they believe will perform better than the market. If correct, this can lead to large gains. However, it turns out that active investors generally perform significantly worse than passive investors. See [Wikipedia](https://en.wikipedia.org/wiki/Active_management) for more details.
