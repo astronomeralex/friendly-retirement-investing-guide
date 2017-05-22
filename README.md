@@ -5,4 +5,4 @@ Disclaimer -- this is a guide I put together from my own learning and with the h
 
 Please open a bug or file a pull request to change or add more information.
 
-The guide is written in markdown. Take a look at [Mou](http://25.io/mou/) for a nice markdown reader.
+The guide is written in markdown. Take a look at [MacDown](https://macdown.uranusjr.com/) or [Mou](http://25.io/mou/) for  nice markdown readers.
